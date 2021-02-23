@@ -15,12 +15,6 @@ This project's purpose was to refactor a webpage so that the links are function,
 ## Installation 
 No installation needed. 
 
-## Usage 
-This is not a function application. It is for test purposes.<br>
-Please view deployed Git Hub [URL](https://nicolewallace09.github.io/challenge-code-refactor/)
-<img src="./assets/images/Website-1.png">
-<img src="./assets/images/Website-2.png">
-
 
 ## License 
 This project is license under MIT
